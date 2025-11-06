@@ -1,16 +1,8 @@
-# team_AH_BKB_AJ
-td_3_4
-Bonjour à tous, le projet parle des branches dans GIT.
+Git has a rebase command for this. With the rebase command, you can take all the changes that were committed on one branch and replay them on another one.
+Changing Multiple Commit Messages
 
-Ceci est le texte du propriétaire.
-Il est sur la branche main.
-Il sert à créer un conflit.
-Pour l'exercice 4.
-Fin.
+To modify a commit that is farther back in your history, you must move to more complex tools.
 
-Mon texte pour le conflit.
-Ecrit sur la branche trauhr.
-Ligne 3
-Ligne 4
-Ligne 5
-Bonjour, Alone HAYAT
+Changing multiple commit messages at once is slightly more convenient than using git commit --amend to do so.
+
+Fait par Trauhr
